@@ -1,7 +1,7 @@
 ## Hi, I'm Anna Lou 👋
 
-🎓 BS Information Management Student<br/>
-🚀 Coordinator for Programming<br/>
+`🎓 BS Information Management Student<br/>`
+`🚀 Coordinator for Programming<br/>`
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 
