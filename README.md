@@ -3,6 +3,7 @@
 `🎓 BS Information Management Student<br/>`
 `🚀 Coordinator for Programming<br/>`
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFhMjMwdmloOTduOXlldmlreWh5M29hYjIxNmRna2FxNHAyaWI1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVbErjjtKCIHb24j4y/giphy.gif)
+![fading line gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 
